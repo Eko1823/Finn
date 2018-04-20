@@ -352,4 +352,4 @@ async def roll(ctx, arg1: str=None, arg2: int=1):
             await bot.say(embed=emb)
 
 # Token
-bot.run("MzQ5MTc0NTQ5MjAxNDIwMjg4.DZjghA.pP4VCIJuBt9U1722pOa8VWI6pGY")
+bot.run('Token')
